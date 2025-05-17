@@ -1,5 +1,5 @@
 {
-  "secretCode": "vinzz444",
+  "secretCode": "VANZVIPP",
   "description": "PREMIUMKEY",
   "lastUpdated": "25-04-014",
   "author": "vinzz",
